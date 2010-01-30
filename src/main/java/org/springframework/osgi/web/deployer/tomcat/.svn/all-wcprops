@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/spring-osgi/!svn/ver/2409/tags/spring-osgi-1.2.1/web/src/main/java/org/springframework/osgi/web/deployer/tomcat
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-osgi/!svn/ver/2409/tags/spring-osgi-1.2.1/web/src/main/java/org/springframework/osgi/web/deployer/tomcat/package.html
+END
+TomcatWarDeployment.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-osgi/!svn/ver/2409/tags/spring-osgi-1.2.1/web/src/main/java/org/springframework/osgi/web/deployer/tomcat/TomcatWarDeployment.java
+END
+TomcatContextUndeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-osgi/!svn/ver/2409/tags/spring-osgi-1.2.1/web/src/main/java/org/springframework/osgi/web/deployer/tomcat/TomcatContextUndeployer.java
+END
+TomcatWarDeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-osgi/!svn/ver/2409/tags/spring-osgi-1.2.1/web/src/main/java/org/springframework/osgi/web/deployer/tomcat/TomcatWarDeployer.java
+END
+OsgiCatalinaLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-osgi/!svn/ver/2409/tags/spring-osgi-1.2.1/web/src/main/java/org/springframework/osgi/web/deployer/tomcat/OsgiCatalinaLoader.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-osgi/!svn/ver/2409/tags/spring-osgi-1.2.1/web/src/main/java/org/springframework/osgi/web/deployer/internal/util
+END
+JasperUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-osgi/!svn/ver/2409/tags/spring-osgi-1.2.1/web/src/main/java/org/springframework/osgi/web/deployer/internal/util/JasperUtils.java
+END
+ChainedClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-osgi/!svn/ver/2409/tags/spring-osgi-1.2.1/web/src/main/java/org/springframework/osgi/web/deployer/internal/util/ChainedClassLoader.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-osgi/!svn/ver/2409/tags/spring-osgi-1.2.1/web/src/main/java/org/springframework/osgi/web/deployer/internal/util/Utils.java
+END

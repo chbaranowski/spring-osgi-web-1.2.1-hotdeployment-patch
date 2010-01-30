@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/spring-osgi/!svn/ver/2409/tags/spring-osgi-1.2.1/web/src/main/java/org/springframework/osgi/web/deployer/jetty
+END
+JettyWarDeployment.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-osgi/!svn/ver/2409/tags/spring-osgi-1.2.1/web/src/main/java/org/springframework/osgi/web/deployer/jetty/JettyWarDeployment.java
+END
+JettyContextUndeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-osgi/!svn/ver/2409/tags/spring-osgi-1.2.1/web/src/main/java/org/springframework/osgi/web/deployer/jetty/JettyContextUndeployer.java
+END
+JettyWarDeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-osgi/!svn/ver/2409/tags/spring-osgi-1.2.1/web/src/main/java/org/springframework/osgi/web/deployer/jetty/JettyWarDeployer.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-osgi/!svn/ver/2409/tags/spring-osgi-1.2.1/web/src/main/java/org/springframework/osgi/web/deployer/jetty/package.html
+END

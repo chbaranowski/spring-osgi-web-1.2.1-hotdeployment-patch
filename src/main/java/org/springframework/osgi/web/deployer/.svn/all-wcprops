@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/spring-osgi/!svn/ver/2409/tags/spring-osgi-1.2.1/web/src/main/java/org/springframework/osgi/web/deployer
+END
+WarDeployment.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-osgi/!svn/ver/2409/tags/spring-osgi-1.2.1/web/src/main/java/org/springframework/osgi/web/deployer/WarDeployment.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spring-osgi/!svn/ver/2409/tags/spring-osgi-1.2.1/web/src/main/java/org/springframework/osgi/web/deployer/package.html
+END
+WarDeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-osgi/!svn/ver/2409/tags/spring-osgi-1.2.1/web/src/main/java/org/springframework/osgi/web/deployer/WarDeployer.java
+END
+OsgiWarDeploymentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-osgi/!svn/ver/2409/tags/spring-osgi-1.2.1/web/src/main/java/org/springframework/osgi/web/deployer/OsgiWarDeploymentException.java
+END
+ContextPathStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-osgi/!svn/ver/2409/tags/spring-osgi-1.2.1/web/src/main/java/org/springframework/osgi/web/deployer/ContextPathStrategy.java
+END
+WarDeploymentContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-osgi/!svn/ver/2409/tags/spring-osgi-1.2.1/web/src/main/java/org/springframework/osgi/web/deployer/WarDeploymentContext.java
+END
